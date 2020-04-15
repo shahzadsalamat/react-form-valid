@@ -87,7 +87,14 @@ button:hover {
     flex-direction: column;
     width: 100%;
  }
+
  .errorMessage {
      font-size: 0.7em;
      color: red;
  }
+
+ .errorMessage-highlight {
+    border-color: red;
+}
+
+
