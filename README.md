@@ -3,5 +3,4 @@
 2. For Demo: https://shahzadsalamat.github.io/react-form-valid/
 
 3. Techonolgies: 
-   HTML, CSS 
-   React
+   HTML, CSS and Reactjs
